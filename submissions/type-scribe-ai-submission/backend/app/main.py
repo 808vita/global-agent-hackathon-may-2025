@@ -385,6 +385,7 @@ api_understanding_agent = Agent(
         "}",
         "```",
         "Strictly adhere to this JSON format and content. If a property like 'summary' is not inferable, omit it from the JSON. If the documentation is insufficient for an endpoint, return an empty `{\"endpoints\": []}`.",
+        "Do not include any conversational text or setup instructions.",
     ],
 )
 
