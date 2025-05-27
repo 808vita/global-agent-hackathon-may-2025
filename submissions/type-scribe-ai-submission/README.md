@@ -1,8 +1,5 @@
 # Type-Scribe AI: Agentic TypeScript SDK Generator 🤖✨
 
-<div align="center" id="top">
- <img src="./.assets/may-2025-banner.svg" alt="Agno" width="750" height="auto">
-</div>
 
 Welcome to **Type-Scribe AI**! This project showcases an intelligent agent system designed to automate the creation of TypeScript API SDKs directly from existing API documentation (such as READMEs or website docs). Our aim is to significantly reduce the manual effort and potential for errors developers face when integrating with new APIs, providing a streamlined and rapid SDK generation process.
 
