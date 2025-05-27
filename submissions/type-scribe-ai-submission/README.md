@@ -181,7 +181,7 @@ As per hackathon rules, these fields are for judges to assign.
 *   [ ] Best use of Potpie
 
 ## Demo Video Link ▶️
-To be added (2-3 minute demo video)
+[![Watch the video](https://img.youtube.com/vi/cFcnCgUYBQM/0.jpg)](https://www.youtube.com/watch?v=cFcnCgUYBQM)
 
 ## Additional Notes 📝
 This project aims to showcase the power of AI agents in automating complex developer workflows, offering significant value to the developer community. We believe Type-Scribe AI provides a practical solution to a common development challenge, leveraging the strengths of multi-agent orchestration with Agno and the capabilities of Google Gemini and Graphlit.
